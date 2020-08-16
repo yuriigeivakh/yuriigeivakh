@@ -8,6 +8,8 @@ I am a software developer with a permanent desire to learn new top technologies.
 Currently, I'm building on such technologies such as React, Redux, Redux-saga, Webpack, Babel (ES6/ES7), Node.js, etc. and I get satisfaction out of using them. I want to keep using and extending that stack. I love working with people, who have the same passion as I do. 
 </p>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=yuriigeivakh&show_icons=true&theme=dracula&hide=contribs,prs,stars)
+
 ### Contacts
 I’m open for consulting, mentorship and freelance opportunities.
 
