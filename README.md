@@ -1,5 +1,6 @@
 # Hi there 👋
-<p>My name is Yurii Heivakh
+<p>My name is Yurii Heivakh</p>
+<p>
 I am a software developer with a permanent desire to learn new top technologies. I'm motivated and interested in the development of high-quality applications, preferably SPA with lightweight UI design.
 </p>
 
