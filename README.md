@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
+<p>My name is Yurii Heivakh
+I am a software developer with a permanent desire to learn new top technologies. I'm motivated and interested in the development of high-quality applications, preferably SPA with lightweight UI design.
+</p>
 
-<!--
-**yuriigeivakh/yuriigeivakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Currently, I'm building on such technologies such as React, Redux, Redux-saga, Webpack, Babel (ES6/ES7), Node.js, etc. and I get satisfaction out of using them. I want to keep using and extending that stack. I love working with people, who have the same passion as I do. 
+</p>
 
-Here are some ideas to get you started:
+### Contacts
+I’m open for consulting, mentorship and freelance opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:yurageyvakh@gmail.com"><img align="left" alt="Paqmind.com" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/mail-1138-827052.png" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/heivakh/"><img align="left" src="https://image.flaticon.com/icons/png/512/37/37019.png" width="22px" style="max-width:100%;"/></a>
+<a href="https://www.facebook.com/yura.geyvakh"><img align="left" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/facebook-official-512.png" width="22px" style="max-width:100%;"/></a>
